@@ -40,7 +40,7 @@
 
 - 👯 I’m looking to collaborate on **OpenSource Projects**
 
-- 👨‍💻 All of my projects are available at **[My Portfolio](https://portfolio-dev-rust.vercel.app/)**
+- 👨‍💻 All of my projects are available at **[My Portfolio](https://portfolio-dev-rust.vercel.app/projects)**
 
 - 📫 How to reach me **durgicharan81@gmail.com**
 
